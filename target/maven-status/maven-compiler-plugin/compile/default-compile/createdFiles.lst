@@ -1,0 +1,5 @@
+com\Tienda\Libros\controller\LibroController.class
+com\Tienda\Libros\model\Libro.class
+com\Tienda\Libros\LibrosApplication.class
+com\Tienda\Libros\repository\LibroRepository.class
+com\Tienda\Libros\service\LibroService.class
